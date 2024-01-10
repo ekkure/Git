@@ -11,7 +11,6 @@ class complex:
     #This is a change        
     #This is a test
     ##
-    #
 x = complex(33, 22)
 
 print(x.x, x.i)
