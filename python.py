@@ -10,7 +10,6 @@ class complex:
         #  father.__init__(self, x, y)
     #This is a change        
     #This is a test
-    #WWWWWWWWWWWWWWWWW
     ##
 x = complex(33, 22)
 
